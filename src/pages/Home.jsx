@@ -10,7 +10,7 @@ const categoryNames = ['Потребительские', 'Производств
 const sortItems = [
     {name: 'популярности', type: 'popular', order: 'desc'},
     {name: 'цене', type: 'price', order: 'desc'},
-    {name: 'алфавиту', type: 'name', order: 'asc'}
+    {name: 'алфавиту', type: 'name', order: 'acs'}
 ];
 
 

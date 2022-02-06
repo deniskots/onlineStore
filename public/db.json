@@ -3,7 +3,7 @@
     {
       "id": 0,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-А",
+      "name": "A-Товар",
       "types": [0, 1],
       "sizes": [26, 30, 40],
       "price": 803,
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Б",
+      "name": "Б-Товар",
       "types": [0],
       "sizes": [26, 40],
       "price": 245,
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-В",
+      "name": "В-Товар",
       "types": [0],
       "sizes": [26, 40],
       "price": 295,
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Г",
+      "name": "Г-Товар",
       "types": [1],
       "sizes": [26, 30, 40],
       "price": 275,
@@ -43,7 +43,7 @@
     {
       "id": 4,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Д",
+      "name": "Д-Товар",
       "types": [0, 1],
       "sizes": [26, 30, 40],
       "price": 415,
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Е",
+      "name": "Е-Товар",
       "types": [0],
       "sizes": [30, 40],
       "price": 580,
@@ -63,7 +63,7 @@
     {
       "id": 6,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Ё",
+      "name": "Ж-Товар",
       "types": [0, 1],
       "sizes": [26, 30, 40],
       "price": 675,
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-Ж",
+      "name": "З-Товар",
       "types": [0, 1],
       "sizes": [26, 30, 40],
       "price": 450,
@@ -83,7 +83,7 @@
     {
       "id": 8,
       "imageUrl": "https://icons-for-free.com/iconfiles/png/512/buy+cart+online+shopping+shop+shopping+shopping+basket+icon-1320191078019322255.png",
-      "name": "Товар-З",
+      "name": "И-Товар",
       "types": [0, 1],
       "sizes": [26, 30, 40],
       "price": 395,
